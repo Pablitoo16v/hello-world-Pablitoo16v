@@ -2,7 +2,6 @@
 # Press ift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
-
 def get_hi_message() -> str:
     name = 'pablo' \
 
@@ -12,6 +11,6 @@ def get_hi_message() -> str:
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print(get_hi_message)
+    print(get_hi_message())
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
